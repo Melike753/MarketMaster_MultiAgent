@@ -9,3 +9,5 @@ pytest
 duckduckgo-search
 ollama
 colorama
+streamlit
+ddgs
